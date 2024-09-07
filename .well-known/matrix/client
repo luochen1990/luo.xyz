@@ -1,5 +1,8 @@
 {
     "m.homeserver": {
         "base_url": "https://matrix.luo.xyz:50080/"
+    },
+    "org.matrix.msc3575.proxy": {
+        "url": "https://matrix-sync-v3.luo.xyz:50080"
     }
 }
